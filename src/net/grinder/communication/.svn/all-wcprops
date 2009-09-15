@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/communication
+END
+NoResponseMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/grinder/!svn/ver/3642/trunk/source/src/net/grinder/communication/NoResponseMessage.java
+END
+Acceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/communication/Acceptor.java
+END
+CloseCommunicationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/CloseCommunicationMessage.java
+END
+ClientReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/communication/ClientReceiver.java
+END
+Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/Receiver.java
+END
+ConnectionIdentity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/ConnectionIdentity.java
+END
+FanOutStreamSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/communication/FanOutStreamSender.java
+END
+TeeSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/grinder/!svn/ver/3642/trunk/source/src/net/grinder/communication/TeeSender.java
+END
+ClientSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3862/trunk/source/src/net/grinder/communication/ClientSender.java
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/Sender.java
+END
+IgnoreShutdownSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/grinder/!svn/ver/3873/trunk/source/src/net/grinder/communication/IgnoreShutdownSender.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/Message.java
+END
+MessagePump.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/MessagePump.java
+END
+MessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/MessageQueue.java
+END
+BlockingSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/grinder/!svn/ver/3642/trunk/source/src/net/grinder/communication/BlockingSender.java
+END
+ServerReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/grinder/!svn/ver/3824/trunk/source/src/net/grinder/communication/ServerReceiver.java
+END
+MessageDispatchRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/grinder/!svn/ver/3642/trunk/source/src/net/grinder/communication/MessageDispatchRegistry.java
+END
+ConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/grinder/!svn/ver/3824/trunk/source/src/net/grinder/communication/ConnectionType.java
+END
+AbstractSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/grinder/!svn/ver/3823/trunk/source/src/net/grinder/communication/AbstractSender.java
+END
+MessageDispatchSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/MessageDispatchSender.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/package.html
+END
+StreamReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/grinder/!svn/ver/3797/trunk/source/src/net/grinder/communication/StreamReceiver.java
+END
+ResourcePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/ResourcePool.java
+END
+AbstractFanOutSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/communication/AbstractFanOutSender.java
+END
+CommunicationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/CommunicationException.java
+END
+FanOutServerSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/communication/FanOutServerSender.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/grinder/!svn/ver/3824/trunk/source/src/net/grinder/communication/Address.java
+END
+ResourcePoolImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/grinder/!svn/ver/3823/trunk/source/src/net/grinder/communication/ResourcePoolImplementation.java
+END
+SocketWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/communication/SocketWrapper.java
+END
+QueuedSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/QueuedSender.java
+END
+MessageRequiringResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3642/trunk/source/src/net/grinder/communication/MessageRequiringResponse.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/grinder/!svn/ver/3824/trunk/source/src/net/grinder/communication/Connector.java
+END
+QueuedSenderDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/QueuedSenderDecorator.java
+END
+StreamSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3797/trunk/source/src/net/grinder/communication/StreamSender.java
+END
+CommunicationDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/communication/CommunicationDefaults.java
+END

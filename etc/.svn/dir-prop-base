@@ -1,0 +1,6 @@
+K 10
+svn:ignore
+V 43
+changes2xml$py.class
+httpToJythonScript.xsl
+END

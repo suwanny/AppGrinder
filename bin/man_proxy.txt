@@ -1,0 +1,62 @@
+java -cp /home/spark/Project/Grinder/grinder/lib/grinder.jar:/usr/lib/jvm/java-6-sun/lib/rt.jar:/home/spark/Project/Grinder/grinder/lib/grinder-j2se5.jar:/home/spark/Project/Grinder/grinder/lib/grinder.jar:/home/spark/Project/Grinder/grinder/lib/grinder-xmlbeans.jar:/home/spark/Project/Grinder/grinder/lib/jsr173_1.0_api.jar:/home/spark/Project/Grinder/grinder/lib/jython.jar:/home/spark/Project/Grinder/grinder/lib/picocontainer-1.3.jar:/home/spark/Project/Grinder/grinder/lib/xbean.jar net.grinder.TCPProxy -http -localPort 8008 > test_script.py
+7/11/09 2:46:56 PM (tcpproxy): Error: unrecognised or invalid option.           
+                                                                                
+Usage:                                                                          
+  java class net.grinder.TCPProxy <options>                                     
+                                                                                
+Commonly used options:                                                          
+  [-http [<stylesheet>]]       See below.                                       
+  [-console]                   Display the console.                             
+  [-requestfilter <filter>]    Add a request filter.                            
+  [-responsefilter <filter>]   Add a response filter.                           
+  [-localhost <host name/ip>]  Default is localhost.                            
+  [-localport <port>]          Default is 8001.                                 
+  [-keystore <file>]           Key store details for                            
+  [-keystorepassword <pass>]   SSL certificates.                                
+  [-keystoretype <type>]       Default is JSSE dependent.                       
+                                                                                
+Other options:                                                                  
+  [-properties <file>]         Properties to pass to the filters.               
+  [-remotehost <host name>]    Default is localhost.                            
+  [-remoteport <port>]         Default is 7001.                                 
+  [-timeout <seconds>]         Proxy engine timeout.                            
+  [-httpproxy <host> <port>]   Route via HTTP/HTTPS proxy.                      
+  [-httpsproxy <host> <port>]  Override -httpproxy settings for                 
+                               HTTPS.                                           
+  [-ssl]                       Use SSL when port forwarding.                    
+  [-colour]                    Be pretty on ANSI terminals.                     
+  [-component <class>]         Register a component class with                  
+                               the filter PicoContainer.                        
+  [-debug]                     Make PicoContainer chatty.                       
+                                                                                
+<filter> is the name of a class that implements                                 
+net.grinder.tools.tcpproxy.TCPProxyFilter or one of NONE, ECHO. The default is  
+ECHO. Multiple filters can be specified for each stream.                        
+                                                                                
+By default, the TCPProxy listens as an HTTP/HTTPS Proxy on                      
+<localhost:localport>.                                                          
+                                                                                
+If either -remotehost or -remoteport is specified, the TCPProxy acts a simple   
+port forwarder between <localhost:localport> and <remotehost:remoteport>.       
+Specify -ssl for SSL support.                                                   
+                                                                                
+-http sets up request and response filters to produce a test script suitable for
+use with the HTTP plugin. The output can be customised by specifying the file   
+name of an alternative XSLT style sheet.                                        
+                                                                                
+-timeout is how long the TCPProxy will wait for a request before timing out and 
+freeing the local port. The TCPProxy will not time out if there are active      
+connections.                                                                    
+                                                                                
+-console displays a simple control window that allows the TCPProxy to be        
+shutdown cleanly. This is needed because some shells, e.g. Cygwin bash, do not  
+allow Java processes to be interrupted cleanly, so filters cannot rely on       
+standard shutdown hooks.                                                        
+                                                                                
+-httpproxy and -httpsproxy allow output to be directed through another          
+HTTP/HTTPS proxy; this may help you reach the Internet. These options are not   
+supported in port forwarding mode.                                              
+                                                                                
+Typical usage:                                                                  
+  java class net.grinder.TCPProxy -http -console > grinder.py 
+

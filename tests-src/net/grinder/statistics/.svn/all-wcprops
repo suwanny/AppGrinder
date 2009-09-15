@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics
+END
+TestStatisticExpressionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestStatisticExpressionFactory.java
+END
+TestStatisticsIndexMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestStatisticsIndexMap.java
+END
+TestCommonStatisticsViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestCommonStatisticsViews.java
+END
+TestStatisticsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestStatisticsTable.java
+END
+TestStatisticsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestStatisticsView.java
+END
+StatisticsServicesTestFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/StatisticsServicesTestFactory.java
+END
+TestTestStatisticsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestTestStatisticsMap.java
+END
+TestTestStatisticsQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestTestStatisticsQueries.java
+END
+testdata
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/testdata
+END
+TestExpressionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestExpressionView.java
+END
+TestStatisticsSetImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestStatisticsSetImplementation.java
+END
+TestStatisticsSetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/statistics/TestStatisticsSetFactory.java
+END

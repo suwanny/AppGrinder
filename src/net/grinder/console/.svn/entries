@@ -1,0 +1,120 @@
+9
+
+dir
+3994
+https://grinder.svn.sourceforge.net/svnroot/grinder/trunk/source/src/net/grinder/console
+https://grinder.svn.sourceforge.net/svnroot/grinder
+
+
+
+2009-06-04T15:55:44.909476Z
+3994
+philipa
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+079cf25b-1623-0410-84ff-b6978db3976a
+
+distribution
+dir
+
+model
+dir
+
+textui
+dir
+
+communication
+dir
+
+swingui
+dir
+
+editor
+dir
+
+common
+dir
+
+ConsoleFoundation.java
+file
+
+
+
+
+2009-07-06T23:05:12.000000Z
+bdc522aba7c538bf90b28290e23aff41
+2008-11-13T18:31:25.891784Z
+3940
+philipa
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11512
+
+client
+dir
+
+package.html
+file
+
+
+
+
+2009-07-06T23:05:12.000000Z
+cce681b56916783f85f3dd1990aa0982
+2008-01-29T11:55:02.442665Z
+3762
+philipa
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+111
+

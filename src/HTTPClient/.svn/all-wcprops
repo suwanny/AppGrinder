@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/grinder/!svn/ver/3991/trunk/source/src/HTTPClient
+END
+HTTPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/grinder/!svn/ver/3983/trunk/source/src/HTTPClient/HTTPConnection.java
+END
+RoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/RoResponse.java
+END
+URI.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/URI.java
+END
+Codecs.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/grinder/!svn/ver/3880/trunk/source/src/HTTPClient/Codecs.java
+END
+DefaultAuthHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/DefaultAuthHandler.java
+END
+CIHashtable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/CIHashtable.java
+END
+AuthSchemeNotImplException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/AuthSchemeNotImplException.java
+END
+Cookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/grinder/!svn/ver/3925/trunk/source/src/HTTPClient/Cookie.java
+END
+RetryModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/RetryModule.java
+END
+HttpOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/grinder/!svn/ver/3991/trunk/source/src/HTTPClient/HttpOutputStream.java
+END
+AuthorizationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/AuthorizationInfo.java
+END
+ChunkedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/ChunkedInputStream.java
+END
+RedirectionModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/RedirectionModule.java
+END
+BufferedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/BufferedInputStream.java
+END
+CookieModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/CookieModule.java
+END
+HashVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/HashVerifier.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/Log.java
+END
+HTTPClientModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/HTTPClientModule.java
+END
+RetryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/RetryException.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/MD5.java
+END
+ContentMD5Module.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/ContentMD5Module.java
+END
+CookiePolicyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/CookiePolicyHandler.java
+END
+AuthorizationPrompter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/AuthorizationPrompter.java
+END
+ParseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/ParseException.java
+END
+UncompressInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/UncompressInputStream.java
+END
+HTTPResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/HTTPResponse.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/grinder/!svn/ver/3836/trunk/source/src/HTTPClient/Response.java
+END
+NVPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/NVPair.java
+END
+IdempotentSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/IdempotentSequence.java
+END
+SocksException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/SocksException.java
+END
+TransferEncodingModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/TransferEncodingModule.java
+END
+LinkedList.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/LinkedList.java
+END
+HttpHeaderElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/HttpHeaderElement.java
+END
+ModuleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/ModuleException.java
+END
+RespInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/RespInputStream.java
+END
+AuthorizationModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/AuthorizationModule.java
+END
+ProtocolNotSuppException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/ProtocolNotSuppException.java
+END
+StreamDemultiplexor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/StreamDemultiplexor.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/Util.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/package.html
+END
+MD5InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/MD5InputStream.java
+END
+HTTPClientModuleConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/HTTPClientModuleConstants.java
+END
+SocksClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/SocksClient.java
+END
+HttpURLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/HttpURLConnection.java
+END
+FilenameMangler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/FilenameMangler.java
+END
+ContentEncodingModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/ContentEncodingModule.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/Request.java
+END
+RoRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/RoRequest.java
+END
+DefaultModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/DefaultModule.java
+END
+Cookie2.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/Cookie2.java
+END
+ResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/ResponseHandler.java
+END
+GlobalConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/GlobalConstants.java
+END
+AuthorizationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/HTTPClient/AuthorizationHandler.java
+END

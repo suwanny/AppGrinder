@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/grinder/!svn/ver/3642/trunk/source/contrib/mq
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/grinder/!svn/ver/3642/trunk/source/contrib/mq/LICENSE
+END
+MQMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/grinder/!svn/ver/3345/trunk/source/contrib/mq/MQMsg.java
+END
+mq.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/grinder/!svn/ver/3345/trunk/source/contrib/mq/mq.py
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/grinder/!svn/ver/3345/trunk/source/contrib/mq/AUTHORS
+END
+MQConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/grinder/!svn/ver/3345/trunk/source/contrib/mq/MQConnector.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/grinder/!svn/ver/3345/trunk/source/contrib/mq/README
+END
+org.rextency.mq.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/grinder/!svn/ver/3345/trunk/source/contrib/mq/org.rextency.mq.jar
+END

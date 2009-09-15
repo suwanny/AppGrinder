@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/data
+END
+goodPOST1
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/data/goodPOST1
+END
+goodGET1
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/data/goodGET1
+END
+goodGET2
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/data/goodGET2
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/grinder/!svn/ver/3790/trunk/source/src/net/grinder/util/html
+END
+HTMLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/util/html/HTMLDocument.java
+END
+HTMLText.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/util/html/HTMLText.java
+END
+AbstractHTMLNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/util/html/AbstractHTMLNode.java
+END
+HTMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/grinder/!svn/ver/3790/trunk/source/src/net/grinder/util/html/HTMLElement.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/util/html/package.html
+END

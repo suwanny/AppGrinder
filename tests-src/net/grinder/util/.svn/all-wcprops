@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/grinder/!svn/ver/3938/trunk/source/tests-src/net/grinder/util
+END
+TestSleeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/grinder/!svn/ver/3871/trunk/source/tests-src/net/grinder/util/TestSleeper.java
+END
+TestAllocateLowestNumberImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/grinder/!svn/ver/3823/trunk/source/tests-src/net/grinder/util/TestAllocateLowestNumberImplementation.java
+END
+TestSerialiser.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestSerialiser.java
+END
+TestDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/grinder/!svn/ver/3869/trunk/source/tests-src/net/grinder/util/TestDirectory.java
+END
+TestAbstractParseListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestAbstractParseListener.java
+END
+TestIsolatingClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestIsolatingClassLoader.java
+END
+TestSignificantFigureFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestSignificantFigureFormat.java
+END
+AnIsolatedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/AnIsolatedClass.java
+END
+TestAttributeStringParserImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/grinder/!svn/ver/3642/trunk/source/tests-src/net/grinder/util/TestAttributeStringParserImplementation.java
+END
+TestListenerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestListenerSupport.java
+END
+TestURIParserImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestURIParserImplementation.java
+END
+TestFixedWidthFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestFixedWidthFormatter.java
+END
+TestSimpleStringEscaper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/grinder/!svn/ver/3642/trunk/source/tests-src/net/grinder/util/TestSimpleStringEscaper.java
+END
+TestBooleanProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestBooleanProperty.java
+END
+TestWeakValueHashMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestWeakValueHashMap.java
+END
+TestUniqueIdentityGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestUniqueIdentityGenerator.java
+END
+TestDelayedCreationFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestDelayedCreationFileWriter.java
+END
+TestSimpleLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestSimpleLogger.java
+END
+TestJVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestJVM.java
+END
+TestInsecureSSLContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/util/TestInsecureSSLContextFactory.java
+END
+TestFileContents.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/grinder/!svn/ver/3869/trunk/source/tests-src/net/grinder/util/TestFileContents.java
+END
+TimeAuthorityStubFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3642/trunk/source/tests-src/net/grinder/util/TimeAuthorityStubFactory.java
+END
+TestAbstractMainClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3869/trunk/source/tests-src/net/grinder/util/TestAbstractMainClass.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/grinder/!svn/ver/3983/trunk/source/tests-src/net/grinder/plugin/http
+END
+TestHTTPPluginControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/grinder/!svn/ver/3890/trunk/source/tests-src/net/grinder/plugin/http/TestHTTPPluginControl.java
+END
+TestHTTPConnectionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/grinder/!svn/ver/3696/trunk/source/tests-src/net/grinder/plugin/http/TestHTTPConnectionWrapper.java
+END
+TestHTTPUtilitiesImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/grinder/!svn/ver/3864/trunk/source/tests-src/net/grinder/plugin/http/TestHTTPUtilitiesImplementation.java
+END
+HTTPRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/grinder/!svn/ver/3957/trunk/source/tests-src/net/grinder/plugin/http/HTTPRequestHandler.java
+END
+TestHTTPPluginConnectionDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/grinder/!svn/ver/3849/trunk/source/tests-src/net/grinder/plugin/http/TestHTTPPluginConnectionDefaults.java
+END
+TestSlowClientBandwidthLimiterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/grinder/!svn/ver/3811/trunk/source/tests-src/net/grinder/plugin/http/TestSlowClientBandwidthLimiterFactory.java
+END
+TestHTTPPluginThreadState.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/grinder/!svn/ver/3836/trunk/source/tests-src/net/grinder/plugin/http/TestHTTPPluginThreadState.java
+END
+TestHTTPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3983/trunk/source/tests-src/net/grinder/plugin/http/TestHTTPRequest.java
+END
+TestHTTPPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3836/trunk/source/tests-src/net/grinder/plugin/http/TestHTTPPlugin.java
+END

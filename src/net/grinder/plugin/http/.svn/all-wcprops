@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/grinder/!svn/ver/3993/trunk/source/src/net/grinder/plugin/http
+END
+HTTPPluginControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/plugin/http/HTTPPluginControl.java
+END
+HTTPConnectionWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3849/trunk/source/src/net/grinder/plugin/http/HTTPConnectionWrapper.java
+END
+HTTPUtilitiesImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/plugin/http/HTTPUtilitiesImplementation.java
+END
+URLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/plugin/http/URLException.java
+END
+TimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/grinder/!svn/ver/3642/trunk/source/src/net/grinder/plugin/http/TimeoutException.java
+END
+HTTPPluginConnectionDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/grinder/!svn/ver/3849/trunk/source/src/net/grinder/plugin/http/HTTPPluginConnectionDefaults.java
+END
+SlowClientBandwidthLimiterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/plugin/http/SlowClientBandwidthLimiterFactory.java
+END
+HTTPPluginThreadState.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3936/trunk/source/src/net/grinder/plugin/http/HTTPPluginThreadState.java
+END
+HTTPRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/grinder/!svn/ver/3993/trunk/source/src/net/grinder/plugin/http/HTTPRequest.java
+END
+HTTPUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/plugin/http/HTTPUtilities.java
+END
+HTTPPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/grinder/!svn/ver/3850/trunk/source/src/net/grinder/plugin/http/HTTPPlugin.java
+END
+HTTPPluginConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3849/trunk/source/src/net/grinder/plugin/http/HTTPPluginConnection.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/plugin/http/package.html
+END

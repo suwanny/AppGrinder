@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/grinder/!svn/ver/3968/trunk/source/src/net/grinder/statistics
+END
+StatisticsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3790/trunk/source/src/net/grinder/statistics/StatisticsTable.java
+END
+StatisticsServicesImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/grinder/!svn/ver/3968/trunk/source/src/net/grinder/statistics/StatisticsServicesImplementation.java
+END
+StatisticsSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/StatisticsSet.java
+END
+ImmutableStatisticsSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/ImmutableStatisticsSet.java
+END
+StatisticsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/StatisticsException.java
+END
+StatisticsSetImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/StatisticsSetImplementation.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/package.html
+END
+StatisticExpressionFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/StatisticExpressionFactory.java
+END
+StatisticsIndexMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/grinder/!svn/ver/3810/trunk/source/src/net/grinder/statistics/StatisticsIndexMap.java
+END
+CommonStatisticsViews.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3968/trunk/source/src/net/grinder/statistics/CommonStatisticsViews.java
+END
+StatisticsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/grinder/!svn/ver/3810/trunk/source/src/net/grinder/statistics/StatisticsView.java
+END
+StatisticExpressionFactoryImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/grinder/!svn/ver/3810/trunk/source/src/net/grinder/statistics/StatisticExpressionFactoryImplementation.java
+END
+StatisticExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/StatisticExpression.java
+END
+PeakStatisticExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/PeakStatisticExpression.java
+END
+TestStatisticsMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/grinder/!svn/ver/3940/trunk/source/src/net/grinder/statistics/TestStatisticsMap.java
+END
+TestStatisticsQueries.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/TestStatisticsQueries.java
+END
+ExpressionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/ExpressionView.java
+END
+StatisticsSetFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/statistics/StatisticsSetFactory.java
+END
+StatisticsServices.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/grinder/!svn/ver/3968/trunk/source/src/net/grinder/statistics/StatisticsServices.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/grinder/!svn/ver/3868/trunk/source/src/net/grinder/console/editor
+END
+BufferImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3797/trunk/source/src/net/grinder/console/editor/BufferImplementation.java
+END
+EditorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/console/editor/EditorException.java
+END
+TextSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/console/editor/TextSource.java
+END
+EditorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/grinder/!svn/ver/3868/trunk/source/src/net/grinder/console/editor/EditorModel.java
+END
+AbstractTextSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/console/editor/AbstractTextSource.java
+END
+Buffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/console/editor/Buffer.java
+END
+ExternalEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/grinder/!svn/ver/3868/trunk/source/src/net/grinder/console/editor/ExternalEditor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/grinder/!svn/ver/3762/trunk/source/src/net/grinder/console/editor/package.html
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/grinder/!svn/ver/3880/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter
+END
+TestHTTPRecordingImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/grinder/!svn/ver/3869/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestHTTPRecordingImplementation.java
+END
+TestProcessHTTPRecordingWithXSLT.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestProcessHTTPRecordingWithXSLT.java
+END
+TestConnectionCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestConnectionCache.java
+END
+TestConnectionHandlerImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestConnectionHandlerImplementation.java
+END
+TestHTTPResponseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestHTTPResponseFilter.java
+END
+TestRegularExpressionsImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestRegularExpressionsImplementation.java
+END
+TestXSLTHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/grinder/!svn/ver/3880/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestXSLTHelper.java
+END
+TestConnectionHandlerFactoryImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestConnectionHandlerFactoryImplementation.java
+END
+TestHTTPRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/plugin/http/tcpproxyfilter/TestHTTPRequestFilter.java
+END

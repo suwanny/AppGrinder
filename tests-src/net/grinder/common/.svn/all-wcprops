@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/grinder/!svn/ver/3869/trunk/source/tests-src/net/grinder/common
+END
+LoggerStubFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/common/LoggerStubFactory.java
+END
+TestCloser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/grinder/!svn/ver/3797/trunk/source/tests-src/net/grinder/common/TestCloser.java
+END
+TestGrinderProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/grinder/!svn/ver/3802/trunk/source/tests-src/net/grinder/common/TestGrinderProperties.java
+END
+TestAbstractTestSemantics.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/common/TestAbstractTestSemantics.java
+END
+TestGrinderBuild.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/common/TestGrinderBuild.java
+END
+TestGrinderExceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/grinder/!svn/ver/3869/trunk/source/tests-src/net/grinder/common/TestGrinderExceptions.java
+END
+StubTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/common/StubTest.java
+END
+TestSSLContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/common/TestSSLContextFactory.java
+END

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/grinder/!svn/ver/3873/trunk/source/tests-src/net/grinder/communication
+END
+TestAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestAcceptor.java
+END
+TestClientReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3824/trunk/source/tests-src/net/grinder/communication/TestClientReceiver.java
+END
+TestFanOutStreamSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestFanOutStreamSender.java
+END
+TestConnectionIdentity.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestConnectionIdentity.java
+END
+TestClientSenderAndServerReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestClientSenderAndServerReceiver.java
+END
+TestTeeSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3869/trunk/source/tests-src/net/grinder/communication/TestTeeSender.java
+END
+SendToEveryoneAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/grinder/!svn/ver/3868/trunk/source/tests-src/net/grinder/communication/SendToEveryoneAddress.java
+END
+TestClientSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/grinder/!svn/ver/3862/trunk/source/tests-src/net/grinder/communication/TestClientSender.java
+END
+TestIgnoreShutdownSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/grinder/!svn/ver/3873/trunk/source/tests-src/net/grinder/communication/TestIgnoreShutdownSender.java
+END
+StubAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/grinder/!svn/ver/3868/trunk/source/tests-src/net/grinder/communication/StubAddress.java
+END
+TestMessagePump.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestMessagePump.java
+END
+StubConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3824/trunk/source/tests-src/net/grinder/communication/StubConnector.java
+END
+TestMessageQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestMessageQueue.java
+END
+TestServerReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3824/trunk/source/tests-src/net/grinder/communication/TestServerReceiver.java
+END
+TestFanOutStreamSenderAndStreamReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestFanOutStreamSenderAndStreamReceiver.java
+END
+TestResponseSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3642/trunk/source/tests-src/net/grinder/communication/TestResponseSender.java
+END
+AbstractSenderAndReceiverTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/AbstractSenderAndReceiverTests.java
+END
+SocketAcceptorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/SocketAcceptorThread.java
+END
+TestConnectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestConnectionType.java
+END
+TestInternalMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestInternalMessages.java
+END
+TestMessageDispatchSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestMessageDispatchSender.java
+END
+BlockingActionThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/BlockingActionThread.java
+END
+TestStreamReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestStreamReceiver.java
+END
+TestStreamSenderAndStreamReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestStreamSenderAndStreamReceiver.java
+END
+TestResourcePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/grinder/!svn/ver/3869/trunk/source/tests-src/net/grinder/communication/TestResourcePool.java
+END
+TestFanOutServerSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/grinder/!svn/ver/3862/trunk/source/tests-src/net/grinder/communication/TestFanOutServerSender.java
+END
+TestSocketWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/grinder/!svn/ver/3862/trunk/source/tests-src/net/grinder/communication/TestSocketWrapper.java
+END
+BlockingSenderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/grinder/!svn/ver/3642/trunk/source/tests-src/net/grinder/communication/BlockingSenderWrapper.java
+END
+TestConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3824/trunk/source/tests-src/net/grinder/communication/TestConnector.java
+END
+TestFanOutServerSenderAndClientReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/grinder/!svn/ver/3824/trunk/source/tests-src/net/grinder/communication/TestFanOutServerSenderAndClientReceiver.java
+END
+TestStreamSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestStreamSender.java
+END
+TestQueuedSenderDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestQueuedSenderDecorator.java
+END
+TestCommunicationDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/TestCommunicationDefaults.java
+END
+SimpleMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/grinder/!svn/ver/3762/trunk/source/tests-src/net/grinder/communication/SimpleMessage.java
+END
